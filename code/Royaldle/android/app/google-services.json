@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829626636399",
+    "project_id": "royaldle",
+    "storage_bucket": "royaldle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829626636399:android:d36479eba9d5199071959a",
+        "android_client_info": {
+          "package_name": "com.example.royaldle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DwK_PQNydNPtVX3IFNQ2W-5e1oPjtTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
